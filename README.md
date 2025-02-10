@@ -1,0 +1,1 @@
+This repository demonstrates a common C programming error: buffer overflow. The provided code attempts to write to memory outside the bounds of an allocated array, leading to undefined behavior and potential crashes or security vulnerabilities. The solution shows how to prevent this error by ensuring array bounds are respected. 
